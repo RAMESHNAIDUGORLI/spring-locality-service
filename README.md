@@ -1,0 +1,1 @@
+# spring-locality-service
