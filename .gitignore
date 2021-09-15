@@ -17,6 +17,9 @@ local.properties
 .loadpath
 .recommenders
 target/
+.classpath
+.factorypath
+.project
 
 # Log file
 *.log
